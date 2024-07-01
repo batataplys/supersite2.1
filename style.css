@@ -41,7 +41,7 @@ body{
     color: var(--branco-principal);
     display: block;
     text-decoration: none;
-    margin-bottom: 1em; /* add 18/06*/
+    <footer class="rodape">
 }
 
 .botao_secundario {
